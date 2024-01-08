@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+printf("\n hi welcome to github \n");
+printf('\n i am adding new file \n");
+return 0;
+}
